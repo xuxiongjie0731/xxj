@@ -1,0 +1,16 @@
+Set Up a Private Reading-Notes Repository
+Goal: Build a private space on GitHub.com for your study notes. When you finish, the repository home page shows a README that describes what the notes are for.
+Audience: A student who has never created a GitHub repository before.
+Prerequisites
+- A GitHub account, and you are already logged in at github.com in a desktop browser set to English.
+- A short description of your project (one sentence is enough) to put in the README later.
+Steps
+1. In the top-right corner of any GitHub page, select the + icon, then choose New repository from the dropdown.
+2. Type reading-notes into the Repository name box. If GitHub shows that the name already exists in your account, add a number or a word, for example reading-notes-2026.
+3. Under Visibility, select Private so only you can see the notes.
+4. Tick the checkbox labeled Add a README file. GitHub will create a first page for your repository automatically.
+5. Select the green Create repository button and wait for the page to load.
+Result check
+Your browser now shows the reading-notes repository page, and below the repository name you can see the contents of the README file rendered as text. If you can read the README without opening any folder, the task succeeded.
+Next steps
+Select the pencil icon on the README to describe your note-taking plan, then commit the change. You can add folders for each book or course as your notes grow.
